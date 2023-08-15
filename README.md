@@ -34,7 +34,7 @@
 
 
 
-## Projetos Data Sciense/Marchine Learning:
+## Projetos Data Sciense/Machine Learning:
 
 <strong><a href="https://github.com/mauriciomeira85/Prevendo-a-rotatividade-de-clientes-com-Marchine-Learning">1. Prevendo a rotatividade de clientes utilizando modelos de classificação</a></strong>
 <br>
