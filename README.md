@@ -5,13 +5,13 @@
 
 - 📈📉📊 Apaixonado por Economia e Negócios, pela área de dados e por tecnologia. Gosto de analisar os problemas cientificamente através de dados e gerar valor a partir deles.
 
-- 📄  Fui Bolsista do PET-Economia/UESB. Estagiei no setor financeiro da DMK.
+- 📄  Fui Bolsista do PET-Economia/UESB.
 
-- 🌱 Atualmente estou aprendendo **Ciência e Análise de Dados e Machine Learning com Python e SQL.** 
+- 🌱 Atualmente estou aprendendo **Inteligência Artificial, Ciência e Análise de Dados.** 
 
 - 👯 Fui bolsista **na Iniciação Científica da minha Universidade (UESB).**
 
-- 💬 Me pergunte sobre **Ciência e Análise de Dados, Machine Learning, Python, SQL, Economia.**
+- 💬 Me pergunte sobre **Inteligência Artificial, Ciência e Análise de Dados, Economia.**
 
 - 🖥️ Possuo conhecimento nas seguintes ferramentas:
 <div style="display: inline">
