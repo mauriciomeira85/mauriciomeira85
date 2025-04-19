@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Maurício Meira</h1>
-<h3 align="center">Apaixonado por Economia e Negócios, Ciência e Análise de Dados, Tecnologia e pelo método científico.</h3>
+<h3 align="center">Apaixonado por Economia e Negócios, Inteligência Artificial, Ciência e Análise de Dados, e Tecnologia em geral.</h3>
 
 - 📚📕 **Economista** (Sou graduado em Ciências Econômicas pela Universidade Estadual do Sudoeste da Bahia (UESB).
 
@@ -9,7 +9,7 @@
 
 - 🌱 Atualmente estou aprendendo **Ciência e Análise de Dados e Machine Learning com Python e SQL.** 
 
-- 👯 Estou colaborando voluntariamente **na Iniciação Científica da minha Universidade (UESB).**
+- 👯 Fui bolsista **na Iniciação Científica da minha Universidade (UESB).**
 
 - 💬 Me pergunte sobre **Ciência e Análise de Dados, Machine Learning, Python, SQL, Economia.**
 
