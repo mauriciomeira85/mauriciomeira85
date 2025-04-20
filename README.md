@@ -36,6 +36,16 @@
 
 ## Projetos Data Sciense/Machine Learning:
 
+<strong><a href="https://github.com/mauriciomeira85/Classificando-Opera-es-de-Cr-dito-de-Empresas-Brasileiras ">1. Classificação de Operações de Crédito de Empresas Brasileiras com Inteligência Artificial</a></strong>
+<br>
+<a href="Classificação de Operações de Crédito de Empresas Brasileiras com Inteligência Artificial ">
+	<img src="https://github.com/mauriciomeira85/Classificando-Opera-es-de-Cr-dito-de-Empresas-Brasileiras/blob/main/imagem%201.jpg " alt="drawing" align="right" width="25%"  height="120"/>
+</a>
+> <p> Este projeto utiliza Machine Learning (Random Forest) com PySpark, SQL Streamlit para desenvolver uma aplicação para prever o risco de crédito de empresas com base em características econômicas e setoriais. A aplicação foi desenvolvida com Streamlit e pode ser acessada por meio do link..</p>
+> <p>Habilidades:  Streamlit, Python, Spark com Pyspark, SQL, Machine Learning </p>
+<br>
+
+
 <strong><a href="https://github.com/mauriciomeira85/Prevendo-a-rotatividade-de-clientes-com-Marchine-Learning">1. Prevendo a rotatividade de clientes utilizando modelos de classificação</a></strong>
 <br>
 <a href="Prevendo a rotatividade de clientes utilizando modelos de classificação">
