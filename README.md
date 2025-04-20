@@ -41,12 +41,12 @@
 <a href="Classificação de Operações de Crédito de Empresas Brasileiras com Inteligência Artificial ">
 	<img src="https://github.com/mauriciomeira85/Classificando-Opera-es-de-Cr-dito-de-Empresas-Brasileiras/blob/main/imagem%201.jpg " alt="drawing" align="right" width="25%"  height="120"/>
 </a>
-> <p> Este projeto utiliza Machine Learning (Random Forest) com PySpark, SQL Streamlit para desenvolver uma aplicação para prever o risco de crédito de empresas com base em características econômicas e setoriais. A aplicação foi desenvolvida com Streamlit e pode ser acessada por meio do link..</p>
+> <p> Este projeto utiliza Machine Learning (Random Forest) com PySpark, SQL Streamlit para desenvolver uma aplicação para prever o risco de crédito de empresas com base em características econômicas e setoriais. A aplicação foi desenvolvida com Streamlit e pode ser acessada por meio do seguinte link: https://classificando-operacoes-credito-de-empresas-brasileiras-com-ia.streamlit.app/..</p>
 > <p>Habilidades:  Streamlit, Python, Spark com Pyspark, SQL, Machine Learning </p>
 <br>
 
 
-<strong><a href="https://github.com/mauriciomeira85/Prevendo-a-rotatividade-de-clientes-com-Marchine-Learning">1. Prevendo a rotatividade de clientes utilizando modelos de classificação</a></strong>
+<strong><a href="https://github.com/mauriciomeira85/Prevendo-a-rotatividade-de-clientes-com-Marchine-Learning">2. Prevendo a rotatividade de clientes utilizando modelos de classificação</a></strong>
 <br>
 <a href="Prevendo a rotatividade de clientes utilizando modelos de classificação">
 	<img src="https://github.com/mauriciomeira85/Prevendo-a-rotatividade-de-clientes-com-Marchine-Learning/blob/main/Imagens/dataset-cover.png" alt="drawing" align="right" width="25%"  height="120"/>
@@ -55,7 +55,7 @@
 > <p>Habilidades: Python, Machine Learning </p>
 <br>
 
-<strong><a href="https://github.com/mauriciomeira85/Previsao-de-Vendas-do-Big-Mart">2. Previsão de vendas do Big Mart </a></strong>
+<strong><a href="https://github.com/mauriciomeira85/Previsao-de-Vendas-do-Big-Mart">3. Previsão de vendas do Big Mart </a></strong>
 <br>
 <a href="https://github.com/mauriciomeira85/Meus-projetos-Data-Sciense-Marchine-Learning/tree/main/Previs%C3%A3o%20de%20Vendas%20do%20BigMart">
 	<img src="https://github.com/mauriciomeira85/Previsao-de-Vendas-do-Big-Mart/blob/main/Imagens/Big%20Mart.png" alt="drawing" align="right" width="25%" height="120"/>
@@ -64,7 +64,7 @@
 > <p>Habilidades: Python, Machine Learning</p>
 <br>
 
-<strong><a href="https://github.com/mauriciomeira85/Agrupamento-de-clientes-com-Marchine-Learning">3. Agrupamento de Clientes com Machine Learning </a></strong>
+<strong><a href="https://github.com/mauriciomeira85/Agrupamento-de-clientes-com-Marchine-Learning">4. Agrupamento de Clientes com Machine Learning </a></strong>
 <br>
 <a href="https://github.com/mauriciomeira85/Meus-projetos-Data-Sciense-Marchine-Learning/blob/main/Agrupamento%20de%20Clientes%20com%20Machine%20Learning/Agrupamento_de_Clientes_com_Machine_Learning.ipynb">
 	<img src="https://github.com/mauriciomeira85/Agrupamento-de-clientes-com-Marchine-Learning/blob/main/Imagens/agrupamento2.jpg" alt="drawing" align="right" width="25%" height="120"/>
