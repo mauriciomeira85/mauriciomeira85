@@ -3,6 +3,10 @@
 
 - 📚📕 **Economista** (Sou graduado em Ciências Econômicas pela Universidade Estadual do Sudoeste da Bahia (UESB).
 
+- 📚📕 **Mestrando em Economia** pela Universidade Federal de Viçosa (UFV).
+
+- 📚📕 **MBA em Finanças e Controladoria** pela USP/Esalq.
+
 - 📈📉📊 Apaixonado por Economia e Negócios, pela área de dados e por tecnologia. Gosto de analisar os problemas cientificamente através de dados e gerar valor a partir deles.
 
 - 📄  Fui Bolsista do PET-Economia/UESB.
