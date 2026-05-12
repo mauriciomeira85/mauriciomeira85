@@ -3,17 +3,19 @@
 
 - 📚📕 **Economista** (Sou graduado em Ciências Econômicas pela Universidade Estadual do Sudoeste da Bahia (UESB).
 
-- 📚📕 **Mestrando em Economia** pela Universidade Federal de Viçosa (UFV).
+- 📚📕 **Mestre em Economia** pela Universidade Federal de Viçosa (UFV).
 
 - 📚📕 **MBA em Finanças e Controladoria** pela USP/Esalq.
+
+- 📚📕 **MBA em Data Sciense, Inteligência Artificial e Analytics** pela USP/Esalq.
 
 - 📈📉📊 Apaixonado por Economia e Negócios, pela área de dados e por tecnologia. Gosto de analisar os problemas cientificamente através de dados e gerar valor a partir deles.
 
 - 📄  Fui Bolsista do PET-Economia/UESB.
 
-- 🌱 Atualmente estou aprendendo **Inteligência Artificial, Ciência e Análise de Dados.** 
+- 🌱 Atualmente estou estudando e desenvolvendo trabalhos em **Inteligência Artificial, Ciência e Análise de Dados.** 
 
-- 👯 Fui bolsista **na Iniciação Científica da minha Universidade (UESB).**
+- 👯 Fui bolsista **na Iniciação Científica da minha Universidade (UESB)** e no **Programação de Educação Tutorial (PET)**, onde trabalhei com análise de dados, Pesquisa quantitativas machine learning, inteligência artificial, dentre outros. Também já atuei como Analista de Dados e Engenheiro de Inteligência Artificial.
 
 - 💬 Me pergunte sobre **Inteligência Artificial, Ciência e Análise de Dados, Economia.**
 
