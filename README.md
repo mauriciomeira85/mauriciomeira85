@@ -15,7 +15,7 @@
 
 - 🌱 Atualmente estou estudando e desenvolvendo trabalhos em **Inteligência Artificial, Ciência e Análise de Dados.** 
 
-- 👯 Fui bolsista **na Iniciação Científica da minha Universidade (UESB)** e no **Programação de Educação Tutorial (PET)**, onde trabalhei com análise de dados, Pesquisa quantitativas machine learning, inteligência artificial, dentre outros. Também já atuei como Analista de Dados e Engenheiro de Inteligência Artificial.
+- 👯 Fui bolsista **na Iniciação Científica da minha Universidade (UESB)** e no **Programação de Educação Tutorial (PET)**, onde trabalhei com análise de dados, pesquisa quantitativas, machine learning, inteligência artificial, dentre outros. Também já atuei como Analista de Dados e Engenheiro de Inteligência Artificial.
 
 - 💬 Me pergunte sobre **Inteligência Artificial, Ciência e Análise de Dados, Economia.**
 
