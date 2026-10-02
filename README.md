@@ -36,8 +36,39 @@
 </a>&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-mauriciomeira85@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mauriciomeira85@gmail.com)](mailto:mauriciomeira85@gmail.com)
 
-### Abaixo você pode visualizar meus projetos na área de dados clicando em cada um deles:
+### Abaixo você pode visualizar meus projetos na área de dados e inteligência artificial clicando em cada um deles:
 
+## Projetos de Inteligência Artificial:
+
+<strong><a href="https://github.com/mauriciomeira85/Agente_Comercial_que_funciona_no_WhatsApp">1. Agente de IA Comercial (SDR) que funciona no WhatsApp</a></strong>
+<br>
+> <p>Plataforma SaaS multi-tenant com um agente de IA que atua como SDR 24 horas por dia, 7 dias por semana, pelo WhatsApp. Ele faz a primeira abordagem dos leads com templates aprovados pela Meta, conversa, qualifica cada lead seguindo o roteiro e os critérios da empresa, faz follow-up com quem parou de responder e executa o desfecho configurado: encaminhar para um vendedor, enviar proposta ou link de pagamento ou agendar reunião. O próprio modelo decide e executa as ações por meio de ferramentas reais, e o Dashboard mostra o funil comercial em tempo real. A aplicação pode ser acessada em: https://agentecomercial.projetostechmauricio.lol/.</p>
+> <p>Habilidades: Python, FastAPI, LangGraph, OpenAI, DeepSeek, PostgreSQL, Celery, Redis, Next.js, TypeScript, WhatsApp Cloud API, Cloudflare Workers, Docker</p>
+<br>
+
+<strong><a href="https://github.com/mauriciomeira85/Agente_de_IA_Comercial_que_funciona_por_Ligacao">2. Agente de IA Comercial que funciona por Ligação</a></strong>
+<br>
+> <p>Agente de IA de voz que liga para os leads e conduz uma conversa comercial em tempo real, com voz natural em português: faz a abertura, apresenta a empresa, entende a necessidade do lead, tira dúvidas e, quando há interesse, registra e encaminha o lead para um vendedor. O pipeline de voz transcreve a fala do lead, decide a resposta com IA e a converte em áudio com baixa latência. A plataforma permite escolher a voz do agente, testar a conversa direto pelo navegador e acompanhar ligações, interessados e atividade diária no Dashboard.</p>
+> <p>Habilidades: Python, FastAPI, Pipecat, DeepSeek, Soniox (voz), Twilio, WebSockets, PostgreSQL, Celery, Redis, Next.js, TypeScript, Docker</p>
+<br>
+
+<strong><a href="https://github.com/mauriciomeira85/agente_de_IA_para_atendimento">3. Agente de IA para Atendimento ao Cliente pelo WhatsApp</a></strong>
+<br>
+> <p>Plataforma SaaS multi-tenant com um agente de IA para atendimento receptivo pelo WhatsApp. A empresa cadastra seus setores e sua base de conhecimento (políticas, FAQ, produtos), e o agente faz a triagem de cada mensagem: responde sozinho usando busca semântica (RAG) na base de conhecimento ou encaminha para o setor humano certo, validado em código. O Dashboard mostra quanto a IA resolveu sozinha, as taxas de encaminhamento e os setores mais acionados. A aplicação pode ser acessada em: https://agenteatendimento.projetostechmauricio.lol/.</p>
+> <p>Habilidades: Python, FastAPI, LangGraph, RAG, pgvector, OpenAI Embeddings, DeepSeek, PostgreSQL, Celery, Redis, Next.js, TypeScript, WhatsApp Cloud API, Docker</p>
+<br>
+
+<strong><a href="https://github.com/mauriciomeira85/Agente_de_IA_para_Cobranca">4. Agente de IA para Cobrança pelo WhatsApp</a></strong>
+<br>
+> <p>Plataforma SaaS multi-tenant com um agente de IA que negocia dívidas em atraso pelo WhatsApp. A empresa credora cadastra os casos e define as Regras de Negociação (desconto máximo, entrada mínima, parcelas e prazo), e o agente aborda o devedor, negocia dentro de limites travados em código, registra promessas de pagamento, gera link de pagamento real (Pix/boleto) e interrompe a cobrança automaticamente quando a dívida é contestada. O Dashboard traz o funil de cobrança, os valores negociados e o envelhecimento da carteira. A aplicação pode ser acessada em: https://agentecobranca.projetostechmauricio.lol/.</p>
+> <p>Habilidades: Python, FastAPI, LangGraph, DeepSeek, Asaas, PostgreSQL, Celery, Redis, Next.js, TypeScript, WhatsApp Cloud API, Docker</p>
+<br>
+
+<strong><a href="https://github.com/mauriciomeira85/Agente_de_IA_Analista_de_Dados">5. Agente de IA Analista de Dados</a></strong>
+<br>
+> <p>Aplicação com um agente de IA que funciona como analista de dados de uma imobiliária fictícia: o usuário faz perguntas em linguagem natural e o agente consulta o banco de dados com SQL validado, por meio de uma camada semântica, e responde com números, análises e tabelas, que podem ser exportados em PDF e Excel. A aplicação também tem um Dashboard com os principais indicadores do negócio. A aplicação pode ser acessada em: https://agenteanalistadedados.projetostechmauricio.lol/.</p>
+> <p>Habilidades: Python, Agno, DeepSeek, SQL, PostgreSQL, Camada Semântica, Análise de Dados, Dashboard</p>
+<br>
 
 
 ## Projetos Data Sciense/Machine Learning:
@@ -79,8 +110,7 @@
 > <p>Habilidades: Python, Machine Learning</p>
 <br>
 
-## Projetos de Análise de Dados:
-<strong><a href="https://github.com/mauriciomeira85/Analisando-dados-de-vendas-e-clientes">1. Analisando dados de vendas e clientes de uma empresa de automóveis</a></strong>
+<strong><a href="https://github.com/mauriciomeira85/Analisando-dados-de-vendas-e-clientes">5. Analisando dados de vendas e clientes de uma empresa de automóveis</a></strong>
 <br>
 <a href="Analisando dados de vendas e clientes de uma empresa de automóveis">
 	<img src="https://github.com/mauriciomeira85/Analisando-dados-de-vendas-e-clientes/blob/main/Imagens/automoveis-102.jpg" alt="drawing" align="right" width="25%"  height="120"/>
