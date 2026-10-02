@@ -71,7 +71,7 @@
 <br>
 
 
-## Projetos Data Sciense/Machine Learning:
+## Projetos de Ciência e Análise de dados
 
 <strong><a href="https://github.com/mauriciomeira85/Classificando-Opera-es-de-Cr-dito-de-Empresas-Brasileiras ">1. Classificação de Operações de Crédito de Empresas Brasileiras com Inteligência Artificial</a></strong>
 <br>
