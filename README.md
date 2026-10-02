@@ -9,7 +9,7 @@
 
 - 📚📕 **MBA em Data Sciense, Inteligência Artificial e Analytics** pela USP/Esalq.
 
-- 📈📉📊 Apaixonado por Economia e Negócios, pela área de dados e por tecnologia. Gosto de analisar os problemas cientificamente através de dados e gerar valor a partir deles.
+- 📈📉📊 Apaixonado por Economia e Negócios, pela área de dados e inteligência artificial e por tecnologia. Gosto de analisar os problemas cientificamente através de dados e gerar valor a partir deles e desenvolver soluções orientadas a dados e inteligência artificial.
 
 - 📄  Fui Bolsista do PET-Economia/UESB.
 
